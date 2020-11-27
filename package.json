@@ -1,0 +1,16 @@
+{
+  "name": "order_form",
+  "version": "1.0.0",
+  "description": "test order form with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/cypress open",
+    "prod": "npx cypress run"
+  },
+  "author": "Jovica Raicki",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.0.0"
+  }
+}

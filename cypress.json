@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://stg.securewebbilling.net/order-sale.php?optid=75&aff=&page_from=main&id=German%20Shepherd&targetdom=http://trainpetdog.com/German%20Shepherd&mid=&cmversion=4&cmphase=1111&tracker=segment_puppy&referrer=sales-page&cvs=5_4",
+    "env": {
+        "apiUrl": "https://stg.securewebbilling.net/order-sale.php?optid=75&aff=&page_from=main&id=German%20Shepherd&targetdom=http://trainpetdog.com/German%20Shepherd&mid=&cmversion=4&cmphase=1111&tracker=segment_puppy&referrer=sales-page&cvs=5_4"
+    },
+    "viewportWidth": 1280,
+    "viewportHeight": 1000
+}
